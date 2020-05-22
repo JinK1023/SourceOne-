@@ -16,4 +16,6 @@ Modeling:
 exploratory data analysis (EDA): Develop a model after fully understanding the data through exploratory data analysis
 Modeling/validate: Develop and validate models for troubleshooting.
 Deploy: deploy the model and Evaluate
+
+
 4.discuss(problem): For a better analysis, first we need more data to predict the loan status. Considering that the cycle of car loans is over a decade, data from the current three years or so is absolutely lacking in data to predict whether go default or not. Therefore, in order to achieve significant accuracy, a history of lending behavior, at least more than one loan cycle, is needed.
